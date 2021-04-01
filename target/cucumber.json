@@ -1,0 +1,768 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:35:41.829Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4260000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Test API status code Landing Page",
+        "description": "",
+        "id": "api-requests-for-all-webpages-shall-return-200;test-api-status-code-landing-page",
+        "after": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user goes to Greenlight Health Landing Page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_goes_to_greenlight_health_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1672000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "The Landing Page request shall return Ok",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_landing_page_request_shall_return_ok()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-01T18:35:47.902Z",
+        "before": [
+          {
+            "result": {
+              "duration": 470000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Test API status code About Us Page",
+        "description": "",
+        "id": "api-requests-for-all-webpages-shall-return-200;test-api-status-code-about-us-page",
+        "after": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3628000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "A user goes to Greenlight Health About Us Page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_goes_to_greenlight_health_about_us_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 365000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "The About Us request shall return Ok",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_about_us_request_shall_return_ok()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-01T18:35:52.381Z",
+        "before": [
+          {
+            "result": {
+              "duration": 508000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Test API status code Contact Us Page",
+        "description": "",
+        "id": "api-requests-for-all-webpages-shall-return-200;test-api-status-code-contact-us-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 750000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "A user goes to Greenlight Health Contact Us Page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_goes_to_greenlight_health_contact_us_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 319000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "The Contact Us request shall return Ok",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_contact_us_request_shall_return_ok()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-01T18:35:53.969Z",
+        "before": [
+          {
+            "result": {
+              "duration": 325000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Test API status code Products Page",
+        "description": "",
+        "id": "api-requests-for-all-webpages-shall-return-200;test-api-status-code-products-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 424000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "A user goes to Greenlight Health Products Page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_goes_to_greenlight_health_products_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 313000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "The Products request shall return Ok",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_products_request_shall_return_ok()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-01T18:35:55.047Z",
+        "before": [
+          {
+            "result": {
+              "duration": 396000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Test API status code Careers Page",
+        "description": "",
+        "id": "api-requests-for-all-webpages-shall-return-200;test-api-status-code-careers-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 784000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "A user goes to Greenlight Health Careers Page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_goes_to_greenlight_health_careers_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 329000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "The Careers request shall return Ok",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_careers_request_shall_return_ok()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-04-01T18:35:56.568Z",
+        "before": [
+          {
+            "result": {
+              "duration": 313000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Test API status code News Page",
+        "description": "",
+        "id": "api-requests-for-all-webpages-shall-return-200;test-api-status-code-news-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 673000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "A user goes to Greenlight Health News Page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_goes_to_greenlight_health_news_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 309000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "The News Page request shall return Ok",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_news_page_request_shall_return_ok()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "API requests for all Webpages shall return 200",
+    "description": "",
+    "id": "api-requests-for-all-webpages-shall-return-200",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightAAPI.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:35:57.878Z",
+        "before": [
+          {
+            "result": {
+              "duration": 385000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Greenlight About Us is Displayed Correctly",
+        "description": "",
+        "id": "greenlight-about-us-page-functionality;greenlight-about-us-is-displayed-correctly",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 455000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user has navigated to Greenlight About Us page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_has_navigated_to_greenlight_about_us_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 77000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A user should see the About Us page displayed correctly",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_should_see_the_about_us_page_displayed_correctly()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenlight About Us Page Functionality",
+    "description": "",
+    "id": "greenlight-about-us-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightAboutUsSection.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:35:58.805Z",
+        "before": [
+          {
+            "result": {
+              "duration": 332000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Greenlight Careers Page is Displayed Correctly",
+        "description": "",
+        "id": "greenlight-careers-page-functionality;greenlight-careers-page-is-displayed-correctly",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 474000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user has navigated to Greenlight Careers page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_has_navigated_to_greenlight_careers_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 114000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A user should see the Careers page displayed correctly",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_should_see_the_careers_page_displayed_correctly()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenlight Careers Page Functionality",
+    "description": "",
+    "id": "greenlight-careers-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightCareers.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:35:59.736Z",
+        "before": [
+          {
+            "result": {
+              "duration": 306000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Greenlight Contact Us Page is Displayed Correctly",
+        "description": "",
+        "id": "greenlight-contact-us-page-functionality;greenlight-contact-us-page-is-displayed-correctly",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 633000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user has navigated to Greenlight Contact Us page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_has_navigated_to_greenlight_contact_us_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "The Contact Us page has loaded correctly",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.the_contact_us_page_has_loaded_correctly()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 818000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "A user should be able to successfully fill out and submit a contact form",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_should_be_able_to_successfully_fill_out_and_submit_a_contact_form()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenlight Contact Us Page Functionality",
+    "description": "",
+    "id": "greenlight-contact-us-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightContactUs.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:36:01.615Z",
+        "before": [
+          {
+            "result": {
+              "duration": 331000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Greenlight Landing Page is Displayed Correctly",
+        "description": "",
+        "id": "greenlight-landing-page-functionality;greenlight-landing-page-is-displayed-correctly",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user has navigated to Greenlight Landing page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_has_navigated_to_greenlight_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1525000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A user should see the Landing page displayed correctly",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_should_see_the_landing_page_displayed_correctly()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenlight Landing Page Functionality",
+    "description": "",
+    "id": "greenlight-landing-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightLandingPage.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:36:03.485Z",
+        "before": [
+          {
+            "result": {
+              "duration": 445000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Greenlight News Page is Displayed Correctly",
+        "description": "",
+        "id": "greenlight-news-page-functionality;greenlight-news-page-is-displayed-correctly",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 535000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user has navigated to Greenlight News page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_has_navigated_to_greenlight_news_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 263000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A user should see the News page displayed correctly",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_should_see_the_news_page_displayed_correctly()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenlight News Page Functionality",
+    "description": "",
+    "id": "greenlight-news-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightNews.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-01T18:36:04.736Z",
+        "before": [
+          {
+            "result": {
+              "duration": 363000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Greenlight Products Page is Displayed Correctly",
+        "description": "",
+        "id": "greenlight-products-page-functionality;greenlight-products-page-is-displayed-correctly",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "Greenlight.StepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1233000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user has navigated to Greenlight Products page",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_has_navigated_to_greenlight_products_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 589000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A user should see the Products page displayed correctly",
+            "match": {
+              "location": "Greenlight.StepDefinitions.GreenlightSteps.a_user_should_see_the_products_page_displayed_correctly()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Greenlight Products Page Functionality",
+    "description": "",
+    "id": "greenlight-products-page-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/GreenlightWebUI/GreenlightProducts.feature",
+    "tags": []
+  }
+]
